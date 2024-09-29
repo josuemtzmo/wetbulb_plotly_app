@@ -4,3 +4,4 @@ numpy
 pandas
 xarray
 gunicorn
+netcdf4
