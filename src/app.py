@@ -26,7 +26,7 @@ class MapUtils():
         self.c_grid_coords_data = json.load(f)
 
         self.coarsen_population = xr.open_dataset(self.path + '/population_gridded.nc').population.load()
-        self.coarsen_wetbulb = xr.open_mfdataset("./data/wetbulb_gridded_data_20*.nc", concat_dim='year',combine='nested').WetBTemp.load()
+        self.coarsen_wetbulb = xr.open_mfdataset(self.path + "/wetbulb_gridded_data_20*.nc", concat_dim='year',combine='nested').WetBTemp.load()
         
     @staticmethod
     def correct_trend(data, growthrate=0, dt=0):
