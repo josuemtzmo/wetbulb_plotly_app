@@ -1,0 +1,257 @@
+poly_idx,geo_point_2d,iso3,status,color_code,name,continent,region,iso_3166_1_alpha_2_codes,french_short,population
+0,"{'lon': 145.67921950822935, 'lat': 15.088520065932547}",MNP,US Territory,USA,Northern Mariana Islands,Oceania,Micronesia,MP,Northern Mariana Islands,0.0
+1,"{'lon': 147.1622109044358, 'lat': 44.69121716855731}",,Sovereignty unsettled,RUS,Kuril Islands,Asia,Eastern Asia,,Kuril Islands,331.436023473721
+2,"{'lon': 2.551955216777798, 'lat': 46.5645020539879}",FRA,Member State,FRA,France,Europe,Western Europe,FR,France,1798301.6103955088
+3,"{'lon': 20.805271723235375, 'lat': 44.031498418616394}",SRB,Member State,SRB,Serbia,Europe,Southern Europe,RS,Serbie,303928.7405158798
+4,"{'lon': -56.01239637788298, 'lat': -32.799645341117}",URY,Member State,URY,Uruguay,Americas,South America,UY,Uruguay,93642.14452335873
+5,"{'lon': 144.77559609548038, 'lat': 13.443566349710713}",GUM,US Non-Self-Governing Territory,GUM,Guam,Oceania,Micronesia,GU,Guam,0.0
+6,"{'lon': -80.10266194726975, 'lat': 8.507186345684861}",PAN,Member State,PAN,Panama,Americas,Central America,PA,Panama,160662.60093690528
+7,"{'lon': -68.69366926528983, 'lat': 12.187804632403001}",ANT,NL Territory,NLD,Netherlands Antilles,Americas,Caribbean,,Netherlands Antilles,0.3452507480978974
+8,"{'lon': 2.6323881691928235, 'lat': 28.163239267304466}",DZA,Member State,DZA,Algeria,Africa,Northern Africa,DZ,Algérie,1289882.5877667707
+9,"{'lon': 0.9757216793859798, 'lat': 8.534960452356943}",TGO,Member State,TGO,Togo,Africa,Western Africa,TG,Togo,338870.4008941472
+10,"{'lon': 33.74379108021756, 'lat': 21.892740179494872}",,Adm. by EGY,EGY,Ma'tan al-Sarra,Africa,Northern Africa,,Ma'tan al-Sarra,349.6197980903614
+11,"{'lon': 8.234429172288662, 'lat': 46.80256937605332}",CHE,Member State,CHE,Switzerland,Europe,Western Europe,CH,Suisse,297729.95157085196
+12,"{'lon': -2.1286489627456704, 'lat': 49.219115463825695}",,UK Territory,GBR,Jersey,Europe,Northern Europe,,Jersey,909.3599109656399
+13,"{'lon': 14.14019348879525, 'lat': 47.592902606915196}",AUT,Member State,AUT,Austria,Europe,Western Europe,AT,Autriche,343204.1689962317
+14,"{'lon': -7.962187190752776, 'lat': 39.69190982231605}",PRT,Member State,PRT,Portugal,Europe,Southern Europe,PT,Portugal,272383.2621666262
+15,"{'lon': 6.087813969032039, 'lat': 49.77062957536392}",LUX,Member State,LUX,Luxembourg,Europe,Western Europe,LU,Luxembourg,35904.18122863769
+16,"{'lon': 66.6578248529193, 'lat': 48.015986428641234}",KAZ,Member State,KAZ,Kazakhstan,Asia,Central Asia,KZ,Kazakhstan,602215.315492418
+17,"{'lon': -69.97564122076227, 'lat': 12.515627383711797}",ABW,NL Territory,ABW,Aruba,Americas,Caribbean,AW,Aruba,14125.091857905876
+18,"{'lon': 12.452254473718623, 'lat': 41.90336493327425}",VAT,Permanent Observer to the UN,VAT,Holy See,Europe,Southern Europe,VA,Saint-Siège,21798.388916023097
+19,"{'lon': 10.341982283041126, 'lat': 1.712338564570087}",GNQ,Member State,GNQ,Equatorial Guinea,Africa,Middle Africa,GQ,Guinée équatoriale,36378.29763603207
+20,"{'lon': -77.31901136197915, 'lat': 18.151418769110276}",JAM,Member State,JAM,Jamaica,Americas,Caribbean,JM,Jamaïque,92233.47911548994
+21,"{'lon': 25.527616312014395, 'lat': 58.67413590786346}",EST,Member State,EST,Estonia,Europe,Northern Europe,EE,Estonie,23299.76910690909
+22,"{'lon': 9.397647758369725, 'lat': 17.426148962247805}",NER,Member State,NER,Niger,Africa,Western Africa,NE,Niger,747343.0157611948
+23,"{'lon': -88.68476698323005, 'lat': 17.217666254229453}",BLZ,Member State,BLZ,Belize,Americas,Central America,BZ,Belize,15396.678665978196
+24,"{'lon': -6.317845225561027, 'lat': 31.88362495443742}",MAR,Member State,MAR,Morocco,Africa,Northern Africa,MA,Maroc,1040203.5156698644
+25,"{'lon': -102.53288549746281, 'lat': 23.950463865568754}",MEX,Member State,MEX,Mexico,Americas,Central America,MX,Mexique,3556196.8818655144
+26,"{'lon': 24.96925875927503, 'lat': 45.84361473342864}",ROU,Member State,ROU,Romania,Europe,Eastern Europe,RO,Roumanie,868543.734789161
+27,"{'lon': 28.046787741199548, 'lat': 53.53999776468983}",BLR,Member State,BLR,Belarus,Europe,Eastern Europe,BY,Bélarus,184173.8025684416
+28,"{'lon': -78.76707226737844, 'lat': -1.427419765623377}",ECU,Member State,ECU,Ecuador,Americas,South America,EC,Équateur,570805.5325235603
+29,"{'lon': 29.958036241009193, 'lat': 16.01933683155426}",SDN,Member State,SDN,Sudan,Africa,Northern Africa,SD,Soudan,1219179.6380376075
+30,"{'lon': 34.82345393872192, 'lat': -6.270353510063236}",TZA,Member State,TZA,United Republic of Tanzania,Africa,Eastern Africa,TZ,République-Unie de Tanzanie,1580742.1243562456
+31,"{'lon': 159.4042206803221, 'lat': 6.492380186832999}",FSM,Member State,FSM,Micronesia (Federated States of),Oceania,Micronesia,FM,Micronésie,1339.9783649436672
+32,"{'lon': -61.79123711747739, 'lat': 17.279817511125948}",ATG,Member State,ATG,Antigua & Barbuda,Americas,Caribbean,AG,Antigua-et-Barbuda,1105.1185007090153
+33,"{'lon': 14.084800836706737, 'lat': 64.44817113990787}",NOR,Member State,NOR,Norway,Europe,Northern Europe,NO,Norvège,146172.68731278257
+34,"{'lon': 90.26849814842922, 'lat': 23.84323245239139}",BGD,Member State,BGD,Bangladesh,Asia,Southern Asia,BD,Bangladesh,4904128.863815091
+35,"{'lon': 10.046298414692636, 'lat': 55.9633982422569}",DNK,Member State,DNK,Denmark,Europe,Northern Europe,DK,Danemark,183191.308449602
+36,"{'lon': 4.663989187136802, 'lat': 50.642851163630354}",BEL,Member State,BEL,Belgium,Europe,Western Europe,BE,Belgique,399555.1400909322
+37,"{'lon': -172.15946443455022, 'lat': -13.758363800617}",WSM,Member State,WSM,Samoa,Oceania,Polynesia,WS,Samoa,3831.2186183929575
+38,"{'lon': -63.06007691114895, 'lat': 18.22287661796813}",AIA,UK Non-Self-Governing Territory,AIA,Anguilla,Americas,Caribbean,AI,Anguilla,1400.009613037156
+39,"{'lon': 34.965810197715925, 'lat': 31.358455855223678}",ISR,Member State,ISR,Israel,Asia,Western Asia,IL,Israël,482059.1095413541
+40,"{'lon': 18.023286554786434, 'lat': 27.043954186415704}",LBY,Member State,LBY,Libyan Arab Jamahiriya,Africa,Northern Africa,LY,Libye,190733.0612804291
+41,"{'lon': 171.77992738155748, 'lat': -41.83887435030019}",NZL,Member State,NZL,New Zealand,Oceania,Australia and New Zealand,NZ,Nouvelle-Zélande,106545.04679349806
+42,"{'lon': -16.984917430414384, 'lat': 32.747916592917406}",,PT Territory,PRT,Madeira Islands,Europe,Southern Europe,,Madeira Islands,4907.697588204686
+43,"{'lon': 37.85802096008018, 'lat': 0.529561859037324}",KEN,Member State,KEN,Kenya,Africa,Eastern Africa,KE,Kenya,1621183.4213535595
+44,"{'lon': 56.111383108264526, 'lat': 20.597694874039348}",OMN,Member State,OMN,Oman,Asia,Western Asia,OM,Oman,138683.1898352207
+45,"{'lon': 127.83477207667, 'lat': 36.37508873369244}",KOR,Member State,KOR,Republic of Korea,Asia,Eastern Asia,KR,République de Corée,1297325.5061165164
+46,"{'lon': -62.18693594727529, 'lat': 16.735366242999707}",MSR,UK Non-Self-Governing Territory,GBR,Montserrat,Americas,Caribbean,MS,Montserrat,0.0
+47,"{'lon': -9.307913832046882, 'lat': 6.448091527343703}",LBR,Member State,LBR,Liberia,Africa,Western Africa,LR,Libéria,130662.3119865995
+48,"{'lon': 29.91765225350001, 'lat': -1.9978920524416317}",RWA,Member State,RWA,Rwanda,Africa,Eastern Africa,RW,Rwanda,494835.70188141376
+49,"{'lon': -85.03478332255999, 'lat': 12.839905878385606}",NIC,Member State,NIC,Nicaragua,Americas,Central America,NI,Nicaragua,175483.1859257414
+50,"{'lon': 35.55142191837771, 'lat': -17.259323521694814}",MOZ,Member State,MOZ,Mozambique,Africa,Eastern Africa,MZ,Mozambique,961443.4371165333
+51,"{'lon': 32.38621827281175, 'lat': 1.2799634451787583}",UGA,Member State,UGA,Uganda,Africa,Eastern Africa,UG,Ouganda,1293791.310109238
+52,"{'lon': 63.169364370421164, 'lat': 41.75044402910113}",UZB,Member State,UZB,Uzbekistan,Asia,Central Asia,UZ,Ouzbékistan,1009391.6779268071
+53,"{'lon': -8.150578960214018, 'lat': 53.1763816282643}",IRL,Member State,IRL,Ireland,Europe,Northern Europe,IE,Irlande,142166.09540129488
+54,"{'lon': 38.84128573461554, 'lat': 15.373203130370355}",ERI,Member State,ERI,Eritrea,Africa,Eastern Africa,ER,Érythrée,146755.61824155087
+55,"{'lon': 14.441922648934293, 'lat': 35.89052204833109}",MLT,Member State,MLT,Malta,Europe,Southern Europe,MT,Malte,0.0
+56,"{'lon': 26.266370864887225, 'lat': 64.50042200031842}",FIN,Member State,FIN,Finland,Europe,Northern Europe,FI,Finlande,177520.08933781742
+57,"{'lon': 35.179671891830814, 'lat': 39.06059534166282}",TUR,Member State,TUR,Turkey,Asia,Western Asia,TR,Turquie,2216084.732013194
+58,"{'lon': 23.89812325011703, 'lat': 55.3356704855903}",LTU,Member State,LTU,Lithuania,Europe,Northern Europe,LT,Lituanie,65783.4525842673
+59,"{'lon': 96.5680544878298, 'lat': 61.9494224376748}",RUS,Member State,RUS,Russian Federation,Europe,Eastern Europe,RU,Fédération de Russie,3910962.4630149817
+60,"{'lon': 29.871837767180068, 'lat': -19.00009844179193}",ZWE,Member State,ZWE,Zimbabwe,Africa,Eastern Africa,ZW,Zimbabwe,390192.21236359735
+61,"{'lon': 103.8080509453779, 'lat': 1.3516148228449165}",SGP,Member State,SGP,Singapore,Asia,South-Eastern Asia,SG,Singapour,78612.3958740272
+62,"{'lon': -65.16772724090075, 'lat': -35.37643634090832}",ARG,Member State,ARG,Argentina,Americas,South America,AR,Argentine,1351439.7268438376
+63,"{'lon': 15.224293438732685, 'lat': -0.8402315749041122}",COG,Member State,COG,Congo,Africa,Middle Africa,CG,Congo,242423.90314655306
+64,"{'lon': -76.54662153239099, 'lat': 24.20112648687146}",BHS,Member State,BHS,Bahamas,Americas,Caribbean,BS,Bahamas,15649.23996887281
+65,"{'lon': -71.37398043999134, 'lat': -37.85248982134257}",CHL,Member State,CHL,Chile,Americas,South America,CL,Chili,618768.6495045727
+66,"{'lon': -10.941772059364299, 'lat': 10.438211891180321}",GIN,Member State,GIN,Guinea,Africa,Western Africa,GN,Guinée,405225.82136534515
+67,"{'lon': 72.43402656488144, 'lat': -7.334266458936674}",IOT,UK Territory,IOT,British Indian Ocean Territory,Africa,Eastern Africa,IO,British Indian Ocean Territory,0.0
+68,"{'lon': -62.753519776881106, 'lat': 17.326191288189765}",KNA,Member State,KNA,Saint Kitts and Nevis,Americas,Caribbean,KN,Saint-Kitts-et-Nevis,0.0
+69,"{'lon': 159.63431506050853, 'lat': -8.918214065358004}",SLB,Member State,SLB,Solomon Islands,Oceania,Melanesia,SB,Îles Salomon,10022.943881703359
+70,"{'lon': -128.59323185242766, 'lat': -24.476532393471487}",PCN,UK Non-Self-Governing Territory,GBR,Pitcairn Island,Oceania,Polynesia,PN,Pitcairn Island,0.0
+71,"{'lon': -60.96871117138652, 'lat': 13.897866017988024}",LCA,Member State,LCA,Saint Lucia,Americas,Caribbean,LC,Sainte-Lucie,13226.336843730685
+72,"{'lon': 58.391315019284995, 'lat': 39.21879264149987}",TKM,Member State,TKM,Turkmenistan,Asia,Central Asia,TM,Turkménistan,332867.24664213485
+73,"{'lon': 68.8619247648032, 'lat': -49.19179489508387}",ATF,FR Territory,FRA,French Southern and Antarctic Territories,Antarctica,,TF,French Southern and Antarctic Territories,0.0
+74,"{'lon': 14.82653748920358, 'lat': 46.123563763534}",SVN,Member State,SVN,Slovenia,Europe,Southern Europe,SI,Slovénie,85994.57985806584
+75,"{'lon': -88.8665121068615, 'lat': 13.736897105301775}",SLV,Member State,SLV,El Salvador,Americas,Central America,SV,El Salvador,224584.50341417585
+76,"{'lon': -158.9088825522056, 'lat': -20.93403778238319}",COK,NZ Territory,NZL,Cook Islands,Oceania,Polynesia,CK,Îles Cook,1775.8650665280202
+77,"{'lon': 47.590876212822145, 'lat': 29.340791326705325}",KWT,Member State,KWT,Kuwait,Asia,Western Asia,KW,Koweït,123166.99502098451
+78,"{'lon': 114.76109927149494, 'lat': 4.521445183161417}",BRN,Member State,BRN,Brunei Darussalam,Asia,South-Eastern Asia,BN,Brunéi Darussalam,24052.572210182334
+79,"{'lon': -23.967784574340474, 'lat': 15.978973266800969}",CPV,Member State,CPV,Cape Verde,Africa,Western Africa,CV,Cabo Verde,6691.358795168267
+80,"{'lon': 12.071742970356828, 'lat': 42.79578239851082}",ITA,Member State,ITA,Italy,Europe,Southern Europe,IT,Italie,1547310.8340729666
+81,"{'lon': 54.19776609324849, 'lat': 32.73946308870451}",IRN,Member State,IRN,Iran (Islamic Republic of),Asia,Southern Asia,IR,Iran,2325040.3589907633
+82,"{'lon': 54.34073373155668, 'lat': 23.9031933433165}",ARE,Member State,ARE,United Arab Emirates,Asia,Western Asia,AE,Émirats arabes unis,245613.69104492234
+83,"{'lon': -64.53042253947774, 'lat': 18.444589289899692}",VGB,UK Non-Self-Governing Territory,GBR,British Virgin Islands,Americas,Caribbean,VG,British Virgin Islands,0.0
+84,"{'lon': 12.45863291380937, 'lat': 43.943639734531686}",SMR,Member State,SMR,San Marino,Europe,Southern Europe,SM,Saint-Marin,5482.572998046289
+85,"{'lon': 27.798249163484364, 'lat': -13.45301862466974}",ZMB,Member State,ZMB,Zambia,Africa,Eastern Africa,ZM,Zambie,634582.1836212868
+86,"{'lon': 24.92942396864251, 'lat': 56.857534437085654}",LVA,Member State,LVA,Latvia,Europe,Northern Europe,LV,Lettonie,87568.7237280688
+87,"{'lon': 168.62692074653282, 'lat': 7.6432725720383585}",MHL,Member State,MHL,Marshall Islands,Oceania,Micronesia,MH,Îles Marshall,0.0
+88,"{'lon': 38.50513206494866, 'lat': 35.01313386115792}",SYR,Member State,SYR,Syrian Arab Republic,Asia,Western Asia,SY,République arabe syrienne,995606.6914040355
+89,"{'lon': 80.70472658542131, 'lat': 7.608085927014841}",LKA,Member State,LKA,Sri Lanka,Asia,Southern Asia,LK,Sri Lanka,542338.006018624
+90,"{'lon': 45.1386999315081, 'lat': -12.818710426164296}",MYT,FR Territory,FRA,Mayotte,Africa,Eastern Africa,YT,Mayotte,9853.55438232562
+91,"{'lon': 12.74359416002904, 'lat': 5.685952200319196}",CMR,Member State,CMR,Cameroon,Africa,Middle Africa,CM,Cameroun,1062595.703429216
+92,"{'lon': 114.11005816189576, 'lat': 22.377361714278614}",HKG,CN Special Administrative Region,CHN,Hong Kong,Asia,Eastern Asia,HK,Hong Kong,302456.82904045575
+93,"{'lon': 47.599591127371646, 'lat': 15.9055165746462}",YEM,Member State,YEM,Yemen,Asia,Western Asia,YE,Yémen,811675.7491995046
+94,"{'lon': -13.136540655145593, 'lat': 24.661671279483265}",ESH,Non-Self-Governing Territory,ESH,Western Sahara,Africa,Northern Africa,EH,Western Sahara,8819.533823262174
+95,"{'lon': -171.85265966247346, 'lat': -9.195175351076909}",TKL,NZ Non-Self-Governing Territory,TKL,Tokelau,Oceania,Polynesia,TK,Tokelau,0.0
+96,"{'lon': -112.4917507593385, 'lat': 45.69574378023102}",USA,Member State,USA,United States of America,Americas,Northern America,US,États-Unis d'Amérique,10204221.350965125
+97,"{'lon': -61.679380329690545, 'lat': 12.112925406141057}",GRD,Member State,GRD,Grenada,Americas,Caribbean,GD,Grenade,3756.0762939445535
+98,"{'lon': -81.23845343137175, 'lat': 19.308663491466188}",CYM,UK Non-Self-Governing Territory,GBR,Cayman Islands,Americas,Caribbean,KY,Cayman Islands,0.0
+99,"{'lon': -70.48463350234037, 'lat': 18.894446925055853}",DOM,Member State,DOM,Dominican Republic,Americas,Caribbean,DO,République dominicaine,592691.0266671643
+100,"{'lon': -75.14215540330257, 'lat': 19.927635698781664}",,US Territory,USA,Guantanamo,Americas,Caribbean,,Guantanamo,1180.7262191772224
+101,"{'lon': -84.18794179526623, 'lat': 9.970202813999169}",CRI,Member State,CRI,Costa Rica,Americas,Central America,CR,Costa Rica,147523.13349185057
+102,"{'lon': 117.30042819464305, 'lat': -2.2302140927351948}",IDN,Member State,IDN,Indonesia,Asia,South-Eastern Asia,ID,Indonésie,7462679.202166657
+103,"{'lon': 9.554268191533609, 'lat': 47.15184890472742}",LIE,Member State,LIE,Liechtenstein,Europe,Western Europe,LI,Liechtenstein,5926.662063599018
+104,"{'lon': -154.45827063056356, 'lat': 1.8345616000504514}",KIR,Member State,KIR,Kiribati,Oceania,Micronesia,KI,Kiribati,0.0
+105,"{'lon': 171.98322667934136, 'lat': -17.45353047659144}",FJI,Member State,FJI,Fiji,Oceania,Melanesia,FJ,Fidji,18912.697934630043
+106,"{'lon': 34.307155310310215, 'lat': -13.216021652612445}",MWI,Member State,MWI,Malawi,Africa,Eastern Africa,MW,Malawi,722013.1510683269
+107,"{'lon': 47.2909469507026, 'lat': -11.566222747956976}",,FR Territory,FRA,Glorioso Islands,Africa,Eastern Africa,,Glorioso Islands,0.0
+108,"{'lon': 112.37544426655548, 'lat': 16.70169908068551}",,Sovereignty unsettled,XXX,Paracel Islands,Asia,South-Eastern Asia,,Paracel Islands,0.0
+109,"{'lon': -2.5763936993329692, 'lat': 49.45870833762451}",,UK Territory,GBR,Guernsey,Europe,Northern Europe,,Guernsey,3198.9544982892226
+110,"{'lon': 134.56868687822998, 'lat': 7.501882414132657}",PLW,Member State,PLW,Palau,Oceania,Micronesia,PW,Palaos,322.83853650129174
+111,"{'lon': -98.26532943367175, 'lat': 61.39201724015714}",CAN,Member State,CAN,Canada,Americas,Northern America,CA,Canada,1161839.673765892
+112,"{'lon': 39.61617576325991, 'lat': 8.633290652257898}",ETH,Member State,ETH,Ethiopia,Africa,Eastern Africa,ET,Éthiopie,3238302.154414296
+113,"{'lon': -41.38950131305342, 'lat': 74.72091756040572}",GRL,DK Territory,DNK,Greenland,Americas,Northern America,GL,Greenland,231.20632742346947
+114,"{'lon': 43.675919655010965, 'lat': -11.892754677494572}",COM,Member State,COM,Comoros,Africa,Eastern Africa,KM,Comores,8940.879089357208
+115,"{'lon': 28.39877462510127, 'lat': 9.767584545477694}",,,,Abyei,Africa,Northern Africa,,Abyei,9155.234275817944
+116,"{'lon': -90.35624226813961, 'lat': 15.70213512278772}",GTM,Member State,GTM,Guatemala,Americas,Central America,GT,Guatemala,525795.3873332866
+117,"{'lon': 74.55559665591913, 'lat': 41.46505454396532}",KGZ,Member State,KGZ,Kyrgyzstan,Asia,Central Asia,KG,Kirghizistan,308368.20469747315
+118,"{'lon': -55.91182643362298, 'lat': 4.126394638258222}",SUR,Member State,SUR,Suriname,Americas,South America,SR,Suriname,20544.999262265464
+119,"{'lon': 19.400883854674174, 'lat': 52.124610086565546}",POL,Member State,POL,Poland,Europe,Eastern Europe,PL,Pologne,1211273.726336584
+120,"{'lon': 35.1089535188704, 'lat': 4.76497527908477}",,Adm. by KEN,SDN,Ilemi Triangle,Africa,Northern Africa,,Ilemi Triangle,6399.088844060525
+121,"{'lon': 115.59794317109953, 'lat': 10.562932308040374}",,Sovereignty unsettled,XXX,Spratly Islands,Asia,South-Eastern Asia,,Spratly Islands,0.0
+122,"{'lon': -64.73960534243399, 'lat': 32.31608616923679}",BMU,UK Non-Self-Governing Territory,BMU,Bermuda,Americas,Northern America,BM,Bermuda,0.0
+123,"{'lon': 94.35043357382652, 'lat': 28.121239931117458}",,Sovereignty unsettled,IND,Arunachal Pradesh,Asia,Eastern Asia,,Arunachal Pradesh,83343.99307241206
+124,"{'lon': 30.3159635770886, 'lat': 7.295765920550891}",SSD,Member State,SSD,South Sudan,Africa,Middle Africa,SS,Soudan du Sud,520121.56629917
+125,"{'lon': 25.231506244029507, 'lat': 42.76137671439208}",BGR,Member State,BGR,Bulgaria,Europe,Eastern Europe,BG,Bulgarie,346242.2965298541
+126,"{'lon': -2.89558470050636, 'lat': 54.1553497202996}",GBR,Member State,GBR,U.K. of Great Britain and Northern Ireland,Europe,Northern Europe,GB,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,1880119.7927011705
+127,"{'lon': 50.55964318352661, 'lat': 26.022409517037772}",BHR,Member State,BHR,Bahrain,Asia,Western Asia,BH,Bahreïn,10591.129882813604
+128,"{'lon': -169.86878139260543, 'lat': -19.052309558871364}",NIU,NZ Territory,NZL,Niue,Oceania,Polynesia,NU,Nioué,0.0
+129,"{'lon': 45.86259041908098, 'lat': 6.063723738463383}",SOM,Member State,SOM,Somalia,Africa,Eastern Africa,SO,Somalie,312874.2045711568
+130,"{'lon': -59.56195497759968, 'lat': 13.178715064348594}",BRB,Member State,BRB,Barbados,Americas,Caribbean,BB,Barbade,0.0
+131,"{'lon': -66.46234221312118, 'lat': 18.221328983610814}",PRI,US Territory,USA,Puerto Rico,Americas,Caribbean,PR,Puerto Rico,66711.83953094382
+132,"{'lon': 52.229899400495455, 'lat': -6.354369979634144}",SYC,Member State,SYC,Seychelles,Africa,Eastern Africa,SC,Seychelles,4209.629150391021
+133,"{'lon': -14.467653621117616, 'lat': 14.366965745226873}",SEN,Member State,SEN,Senegal,Africa,Western Africa,SN,Sénégal,606250.1681157042
+134,"{'lon': 22.95974634066737, 'lat': 39.068537201230306}",GRC,Member State,GRC,Greece,Europe,Southern Europe,GR,Grèce,430640.51253802597
+135,"{'lon': 35.2564156494069, 'lat': 31.94655144615097}",PSE,Occupied Territory,XXX,West Bank,Asia,Western Asia,PS,État de Palestine,217158.06921385237
+136,"{'lon': 8.105306311132345, 'lat': 9.593959990531559}",NGA,Member State,NGA,Nigeria,Africa,Western Africa,NG,Nigéria,6195108.289537481
+137,"{'lon': 167.9525970222567, 'lat': -29.037657697872586}",NFK,AU Territory,AUS,Norfolk Island,Oceania,Australia and New Zealand,NF,Norfolk Island,0.0
+138,"{'lon': 79.12704701021674, 'lat': 35.03382308522889}",,Sovereignty unsettled JammuK-China,XXY,Aksai Chin,Asia,Eastern Asia,,Aksai Chin,581.4501668414578
+139,"{'lon': 7.412821656923133, 'lat': 43.747982776102674}",MCO,Member State,MCO,Monaco,Europe,Western Europe,MC,Monaco,0.0
+140,"{'lon': -15.386643121225699, 'lat': 13.452649432760897}",GMB,Member State,GMB,Gambia,Africa,Western Africa,GM,Gambie,63870.68484497205
+141,"{'lon': 125.85367517195874, 'lat': -8.82297620855613}",TLS,Member State,TLS,Timor-Leste,Asia,South-Eastern Asia,TL,Timor-Leste,43581.15651702088
+142,"{'lon': -86.6191461652836, 'lat': 14.819221744724162}",HND,Member State,HND,Honduras,Americas,Central America,HN,Honduras,323106.15361518797
+143,"{'lon': 23.815027616664164, 'lat': -22.182004075269575}",BWA,Member State,BWA,Botswana,Africa,Southern Africa,BW,Botswana,68515.79251189748
+144,"{'lon': -1.7401411318983298, 'lat': 12.27792985050918}",BFA,Member State,BFA,Burkina Faso,Africa,Western Africa,BF,Burkina Faso,722859.7600479336
+145,"{'lon': 31.387114773129007, 'lat': 49.01708816412179}",UKR,Member State,UKR,Ukraine,Europe,Eastern Europe,UA,Ukraine,1350653.1336143184
+146,"{'lon': -177.37881469287768, 'lat': 28.205197984676424}",,US Territory,USA,Midway Is.,Americas,Northern America,,Midway Is.,0.0
+147,"{'lon': 55.53817966041089, 'lat': -21.12166049427055}",REU,FR Territory,FRA,Reunion,Africa,Eastern Africa,RE,Reunion,18027.389266965525
+148,"{'lon': 44.54571894171099, 'lat': 24.12288781941341}",SAU,Member State,SAU,Saudi Arabia,Asia,Western Asia,SA,Arabie saoudite,1023010.5666139603
+149,"{'lon': 120.95079799409777, 'lat': 23.75401329352246}",TWN,CN Province,CHN,Taiwan,Asia,Eastern Asia,TW,Taiwan,969175.2033814586
+150,"{'lon': -61.53674307119224, 'lat': 16.20346137351128}",GLP,FR Territory,FRA,Guadeloupe,Americas,Caribbean,GP,Guadeloupe,19219.518768310165
+151,"{'lon': 20.4829669203305, 'lat': 6.571232077104282}",CAF,Member State,CAF,Central African Republic,Africa,Middle Africa,CF,République centrafricaine,163812.23549806874
+152,"{'lon': -146.41858386723257, 'lat': -14.854975666349645}",PYF,FR Territory,FRA,French Polynesia,Oceania,Polynesia,PF,French Polynesia,4391.937480926545
+153,"{'lon': -27.303296240532973, 'lat': 38.33239830464354}",PRT,PT Territory,PRT,Azores Islands,Europe,Southern Europe,PT,Portugal,3254.7466688148197
+154,"{'lon': -53.08981995401317, 'lat': -10.773108522625618}",BRA,Member State,BRA,Brazil,Americas,South America,BR,Brésil,5962342.157703431
+155,"{'lon': -72.6794577401439, 'lat': 18.9416087033466}",HTI,Member State,HTI,Haiti,Americas,Caribbean,HT,Haïti,423077.7038999953
+156,"{'lon': 29.790196508144227, 'lat': 26.553780459197984}",EGY,Member State,EGY,Egypt,Africa,Northern Africa,EG,Égypte,3058155.155814608
+157,"{'lon': 10.393661554752802, 'lat': 51.1065921857343}",DEU,Member State,DEU,Germany,Europe,Western Europe,DE,Allemagne,2370458.544091708
+158,"{'lon': -5.555619464120098, 'lat': 7.631533614372455}",CIV,Member State,CIV,Côte d'Ivoire,Africa,Western Africa,CI,Côte d'Ivoire,769061.6885128049
+159,"{'lon': 79.38600861425822, 'lat': 22.32612228404532}",IND,Member State,IND,India,Asia,Southern Asia,IN,Inde,39890410.59429504
+160,"{'lon': -66.16956396322298, 'lat': 7.122448779792319}",VEN,Member State,VEN,Venezuela,Americas,South America,VE,Venezuela,1047923.1299409036
+161,"{'lon': 90.42943482568835, 'lat': 27.415414485262534}",BTN,Member State,BTN,Bhutan,Asia,Southern Asia,BT,Bhoutan,118424.94999886105
+162,"{'lon': -11.791921784497182, 'lat': 8.560284889259204}",SLE,Member State,SLE,Sierra Leone,Africa,Western Africa,SL,Sierra Leone,180862.97885419984
+163,"{'lon': -174.83628627207617, 'lat': -20.402920372982116}",TON,Member State,TON,Tonga,Oceania,Polynesia,TO,Tonga,0.0
+164,"{'lon': -61.35575744837549, 'lat': 15.435595075865715}",DMA,Member State,DMA,Dominica,Americas,Caribbean,DM,Dominique,0.0
+165,"{'lon': -160.0272237290637, 'lat': -0.38601812024924353}",,US Territory,USA,Jarvis Island,Americas,Northern America,,Jarvis Island,0.0
+166,"{'lon': 19.250304959550288, 'lat': 42.791593248346096}",MNE,Member State,MNE,Montenegro,Europe,Southern Europe,ME,Monténégro,28457.201530455517
+167,"{'lon': 18.3634675184936, 'lat': 78.8286315537683}",SJM,NO Territory,NOR,Svalbard and Jan Mayen Islands,Europe,Northern Europe,SJ,Svalbard and Jan Mayen Islands,81.16503334830253
+168,"{'lon': 106.30147440858681, 'lat': 16.659256404678835}",VNM,Member State,VNM,Vietnam,Asia,South-Eastern Asia,VN,Viet Nam,2675180.0801201886
+169,"{'lon': 16.41177821249749, 'lat': 45.05116186966242}",HRV,Member State,HRV,Croatia,Europe,Southern Europe,HR,Croatie,153607.70373510735
+170,"{'lon': 17.786530696807308, 'lat': 44.16811522452033}",BIH,Member State,BIH,Bosnia & Herzegovina,Europe,Southern Europe,BA,Bosnie-Herzégovine,106917.07018613613
+171,"{'lon': 36.786730210621045, 'lat': 31.25331588826589}",JOR,Member State,JOR,Jordan,Asia,Western Asia,JO,Jordanie,296412.5694151676
+172,"{'lon': 51.188069104527365, 'lat': 25.297876440594464}",QAT,Member State,QAT,Qatar,Asia,Western Asia,QA,Qatar,338848.7320302141
+173,"{'lon': 178.5575513356263, 'lat': -7.827722097631399}",TUV,Member State,TUV,Tuvalu,Oceania,Polynesia,TV,Tuvalu,0.0
+174,"{'lon': -61.19376585175559, 'lat': 13.254810824636843}",VCT,Member State,VCT,Saint Vincent and the Grenadines,Americas,Caribbean,VC,Saint-Vincent-et-les Grenadines,2176.835983276878
+175,"{'lon': 34.3727489983712, 'lat': 31.401863619651174}",PSE,Occupied Territory (under review),XXX,Gaza Strip,Asia,Western Asia,PS,État de Palestine,137862.31004332102
+176,"{'lon': 31.49752845618843, 'lat': -26.562642190929807}",SWZ,Member State,SWZ,Swaziland,Africa,Southern Africa,SZ,Eswatini,40208.83250939901
+177,"{'lon': 165.71548797297555, 'lat': -21.31633710438555}",NCL,FR Non-Self-Governing Territory,FRA,New Caledonia,Oceania,Melanesia,NC,New Caledonia,13851.692211020598
+178,"{'lon': -59.363297863117914, 'lat': -51.73711668199259}",FLK,UK Non-Self-Governing Territory,GBR,Falkland Islands (Malvinas),Americas,South America,FK,Falkland Islands (Malvinas),9.41819768957799
+179,"{'lon': 68.79014364623956, 'lat': 29.35790342663677}",PAK,Member State,PAK,Pakistan,Asia,Southern Asia,PK,Pakistan,6141322.484110555
+180,"{'lon': 25.088778010977098, 'lat': -28.99320329296508}",ZAF,Member State,ZAF,South Africa,Africa,Southern Africa,ZA,Afrique du Sud,1640245.8820765298
+181,"{'lon': 127.18195650688813, 'lat': 40.14306377266305}",PRK,Member State,PRK,Democratic People's Republic of Korea,Asia,Eastern Asia,KP,République populaire démocratique de Corée,706607.3696603575
+182,"{'lon': 73.25222658734783, 'lat': 3.216335123203281}",MDV,Member State,MDV,Maldives,Asia,Southern Asia,MV,Maldives,1711.6003379835784
+183,"{'lon': 35.88802723254408, 'lat': 33.92026709335808}",LBN,Member State,LBN,Lebanon,Asia,Western Asia,LB,Liban,226866.09130092224
+184,"{'lon': 1.5767650843354541, 'lat': 42.548652866178955}",AND,Member State,AND,Andorra,Europe,Southern Europe,AD,Andorre,10135.41699409778
+185,"{'lon': 134.48956247309874, 'lat': -25.734968241934748}",AUS,Member State,AUS,Australia,Oceania,Australia and New Zealand,AU,Australie,554191.5947630433
+186,"{'lon': 3.4125221846044522, 'lat': -54.421903319811385}",BVT,NO Territory,NOR,Bouvet Island,Antarctica,,BV,Bouvet Island,0.0
+187,"{'lon': 21.69747626732899, 'lat': 41.599682312277054}",MKD,Member State,MKD,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,MK,Macédoine du Nord,76351.68447208178
+188,"{'lon': -74.37562774311924, 'lat': -9.163759818255476}",PER,Member State,PER,Peru,Americas,South America,PE,Pérou,934517.4435074129
+189,"{'lon': 2.3431357641935002, 'lat': 9.647320880659041}",BEN,Member State,BEN,Benin,Africa,Western Africa,BJ,Bénin,359213.64558411855
+190,"{'lon': -58.39102352627807, 'lat': -23.23621116210156}",PRY,Member State,PRY,Paraguay,Americas,South America,PY,Paraguay,211056.41930821288
+191,"{'lon': -4.525849355480654, 'lat': 54.22908191631633}",IMY,UK Territory,GBR,Isle of Man,Europe,Northern Europe,,Isle of Man,1068.6621551515325
+192,"{'lon': -18.605467191288948, 'lat': 64.99758837371617}",ISL,Member State,ISL,Iceland,Europe,Northern Europe,IS,Islande,11517.06759425824
+193,"{'lon': 17.218277596923286, 'lat': -22.133246238490916}",NAM,Member State,NAM,Namibia,Africa,Southern Africa,NA,Namibie,97993.06352973529
+194,"{'lon': 28.47393086746524, 'lat': 47.19386942309038}",MDA,Member State,MDA,"Moldova, Republic of",Europe,Eastern Europe,MD,République de Moldova,133907.37444305577
+195,"{'lon': 166.92312974733693, 'lat': -0.5287423564231192}",NRU,Member State,NRU,Nauru,Oceania,Micronesia,NR,Nauru,0.0
+196,"{'lon': 101.0173609470801, 'lat': 15.127035821032173}",THA,Member State,THA,Thailand,Asia,South-Eastern Asia,TH,Thaïlande,2280169.2462091027
+197,"{'lon': 83.93854780766698, 'lat': 28.253007138564417}",NPL,Member State,NPL,Nepal,Asia,Southern Asia,NP,Népal,1425273.8654489545
+198,"{'lon': -170.70783196455616, 'lat': -14.304407205909813}",ASM,US Non-Self-Governing Territory,ASM,American Samoa,Oceania,Polynesia,AS,American Samoa,0.0
+199,"{'lon': 105.70369718399493, 'lat': -10.444114582723875}",CXR,AU Territory,AUS,Christmas Island,Asia,South-Eastern Asia,CX,Christmas Island,0.0
+200,"{'lon': -64.8070344271971, 'lat': 17.90510672692729}",VIR,US Non-Self-Governing Territory,USA,United States Virgin Islands,Americas,Caribbean,VI,United States Virgin Islands,5018.508544922494
+201,"{'lon': -6.884109940389508, 'lat': 62.031067273707876}",FRO,DK Territory,DNK,Faroe Islands,Europe,Northern Europe,FO,Faroe Islands,666.8818597793206
+202,"{'lon': 28.243011268944105, 'lat': -29.581000352901032}",LSO,Member State,LSO,Lesotho,Africa,Southern Africa,LS,Lesotho,66209.24430362687
+203,"{'lon': 71.04200446155443, 'lat': 38.52817773320961}",TJK,Member State,TJK,Tajikistan,Asia,Central Asia,TJ,Tadjikistan,376417.5662999472
+204,"{'lon': 29.887145470708866, 'lat': -3.3561748083588876}",BDI,Member State,BDI,Burundi,Africa,Eastern Africa,BI,Burundi,393506.7986907839
+205,"{'lon': 122.87870839365924, 'lat': 11.741832657610422}",PHL,Member State,PHL,Philippines,Asia,South-Eastern Asia,PH,Philippines,2847793.4478791407
+206,"{'lon': 46.70603866914809, 'lat': -19.37338306850477}",MDG,Member State,MDG,Madagascar,Africa,Eastern Africa,MG,Madagascar,735615.5637207141
+207,"{'lon': 48.81987923035784, 'lat': 40.29691565933846}",AZE,Member State,AZE,Azerbaijan,Asia,Western Asia,AZ,Azerbaïdjan,263308.70505214203
+208,"{'lon': -10.332297950013205, 'lat': 20.259851310418068}",MRT,Member State,MRT,Mauritania,Africa,Western Africa,MR,Mauritanie,135809.58535148526
+209,"{'lon': 19.413447961183078, 'lat': 47.16650222537332}",HUN,Member State,HUN,Hungary,Europe,Eastern Europe,HU,Hongrie,292937.4320182844
+210,"{'lon': 42.57776505808049, 'lat': 11.749676118315941}",DJI,Member State,DJI,Djibouti,Africa,Eastern Africa,DJ,Djibouti,25309.288282391477
+211,"{'lon': 167.71814623979017, 'lat': -16.255053044240533}",VUT,Member State,VUT,Vanuatu,Oceania,Melanesia,VU,Vanuatu,5269.029665231954
+212,"{'lon': 104.92398131540143, 'lat': 12.716432209676283}",KHM,Member State,KHM,Cambodia,Asia,South-Eastern Asia,KH,Cambodge,572618.5915595825
+213,"{'lon': 43.5174462848815, 'lat': 42.17631172001709}",GEO,Member State,GEO,Georgia,Asia,Western Asia,GE,Géorgie,126693.77166033466
+214,"{'lon': 35.61535992994024, 'lat': 22.3000979536055}",,Adm. by SDN,SDN,Hala'ib Triangle,Africa,Northern Africa,,Hala'ib Triangle,677.6241147519174
+215,"{'lon': 96.50692104674981, 'lat': 21.154319005698042}",MMR,Member State,MMR,Myanmar,Asia,South-Eastern Asia,MM,Myanmar,1299946.7113284916
+216,"{'lon': 57.87073734512803, 'lat': -20.251869017747172}",MUS,Member State,MUS,Mauritius,Africa,Eastern Africa,MU,Maurice,66493.26196287738
+217,"{'lon': 96.83688205703784, 'lat': -12.171249608645304}",CCK,AU Territory,AUS,Cocos (Keeling) Islands,Asia,South-Eastern Asia,CC,Cocos (Keeling) Islands,0.0
+218,"{'lon': 66.0264706677288, 'lat': 33.838805716206636}",AFG,Member State,AFG,Afghanistan,Asia,Southern Asia,AF,Afghanistan,951666.8542774837
+219,"{'lon': 6.736585755086851, 'lat': 0.4569785292666155}",STP,Member State,STP,Sao Tome and Principe,Africa,Middle Africa,ST,Sao Tomé-et-Principe,3134.424682616147
+220,"{'lon': -73.07336881924765, 'lat': 3.901155840147145}",COL,Member State,COL,Colombia,Americas,South America,CO,Colombie,1628492.611483823
+221,"{'lon': 15.338412090068106, 'lat': 49.74285888947337}",CZE,Member State,CZE,Czech Republic,Europe,Eastern Europe,CZ,République tchèque,413207.1429243046
+222,"{'lon': 137.99074452809256, 'lat': 37.56216157098009}",JPN,Member State,JPN,Japan,Asia,Eastern Asia,JP,Japon,3682578.42957708
+223,"{'lon': 103.7632907781227, 'lat': 18.502743832231815}",LAO,Member State,LAO,Lao People's Democratic Republic,Asia,South-Eastern Asia,LA,République démocratique populaire lao,310614.29885911534
+224,"{'lon': 9.561335844988342, 'lat': 34.110858592079836}",TUN,Member State,TUN,Tunisia,Africa,Northern Africa,TN,Tunisie,360404.0038443118
+225,"{'lon': -58.97478101377691, 'lat': 4.792017594781358}",GUY,Member State,GUY,Guyana,Americas,South America,GY,Guyana,30126.089270815097
+226,"{'lon': 11.797236422127236, 'lat': -0.5909444841771871}",GAB,Member State,GAB,Gabon,Africa,Middle Africa,GA,Gabon,84985.639910042
+227,"{'lon': -36.38236149455586, 'lat': -54.48815096932706}",,UK Territory,GBR,South Georgia & the South Sandwich Islands,Antarctica,,,South Georgia & the South Sandwich Islands,0.0
+228,"{'lon': 103.08321757782574, 'lat': 46.835290642171856}",MNG,Member State,MNG,Mongolia,Asia,Eastern Asia,MN,Mongolie,88659.53475290316
+229,"{'lon': -3.649564960428935, 'lat': 40.22682992875567}",ESP,Member State,ESP,Spain,Europe,Southern Europe,ES,Espagne,1426439.9672225513
+230,"{'lon': 33.22176299478318, 'lat': 35.04588258022155}",CYP,Member State,CYP,Cyprus,Asia,Western Asia,CY,Chypre,34494.35334396711
+231,"{'lon': 113.55012506352243, 'lat': 22.183320473366667}",MAC,CN Special Administrative Region,CHN,Macao,Asia,Eastern Asia,MO,Macao,83536.07031254756
+232,"{'lon': 75.80767732353854, 'lat': 34.550676304495575}",,Sovereignty unsettled,XXZ,Jammu-Kashmir,Asia,Eastern Asia,,Jammu-Kashmir,753985.9305173215
+233,"{'lon': 73.49837379726881, 'lat': -53.09133257559054}",HMD,AU Territory,AUS,Heard Island and McDonald Islands,Antarctica,,HM,Heard Island and McDonald Islands,0.0
+234,"{'lon': -53.241223581974054, 'lat': 3.924688006784139}",GUF,FR Territory,FRA,French Guiana,Americas,South America,GF,French Guiana,6901.594867684075
+235,"{'lon': 23.655005743753385, 'lat': -2.8762349587831393}",COD,Member State,COD,Democratic Republic of the Congo,Africa,Middle Africa,CD,République démocratique du Congo,3345613.8230467346
+236,"{'lon': -14.965216586726699, 'lat': 12.030308292864975}",GNB,Member State,GNB,Guinea-Bissau,Africa,Western Africa,GW,Guinée-Bissau,63448.27656173712
+237,"{'lon': 145.2412167104673, 'lat': -6.478767972968442}",PNG,Member State,PNG,Papua New Guinea,Oceania,Melanesia,PG,Papouasie-Nouvelle-Guinée,258887.59053843128
+238,"{'lon': -71.81294727044643, 'lat': 21.836681948347035}",TCA,UK Non-Self-Governing Territory,GBR,Turks and Caicos Islands,Americas,Caribbean,TC,Turks and Caicos Islands,6.290057420730402
+239,"{'lon': -64.67093179110404, 'lat': -16.71461009447613}",BOL,Member State,BOL,Bolivia,Americas,South America,BO,Bolivie (État plurinational de),320481.5915941957
+240,"{'lon': -79.03635234345809, 'lat': 21.62116985457321}",CUB,Member State,CUB,Cuba,Americas,Caribbean,CU,Cuba,317622.4183391612
+241,"{'lon': 103.9040560317203, 'lat': 36.56790870229093}",CHN,Member State,CHN,China,Asia,Eastern Asia,CN,Chine,39737866.83428357
+242,"{'lon': 43.77213543247138, 'lat': 33.048024497806466}",IRQ,Member State,IRQ,Iraq,Asia,Western Asia,IQ,Iraq,1349412.127488486
+243,"{'lon': -61.02128794867484, 'lat': 14.652550173716877}",MTQ,FR Territory,FRA,Martinique,Americas,Caribbean,MQ,Martinique,12340.420410155679
+244,"{'lon': 109.7081944595275, 'lat': 3.7923669015472297}",MYS,Member State,MYS,Malaysia,Asia,South-Eastern Asia,MY,Malaisie,977108.2060937964
+245,"{'lon': 16.739754033053558, 'lat': 62.7898967841579}",SWE,Member State,SWE,Sweden,Europe,Northern Europe,SE,Suède,264777.21610225434
+246,"{'lon': -1.2073013828375054, 'lat': 7.959848413760552}",GHA,Member State,GHA,Ghana,Africa,Western Africa,GH,Ghana,912852.723997115
+247,"{'lon': 17.54467578636636, 'lat': -12.295285224744552}",AGO,Member State,AGO,Angola,Africa,Middle Africa,AO,Angola,825848.9932019264
+248,"{'lon': 5.603418026946613, 'lat': 52.24926328962551}",NLD,Member State,NLD,Netherlands,Europe,Western Europe,NL,Pays-Bas,537623.5220860871
+249,"{'lon': 18.664479714387145, 'lat': 15.361166539137777}",TCD,Member State,TCD,Chad,Africa,Middle Africa,TD,Tchad,480954.4056679638
+250,"{'lon': -61.253176819842295, 'lat': 10.468641433558663}",TTO,Member State,TTO,Trinidad and Tobago,Americas,Caribbean,TT,Trinité-et-Tobago,28404.393616796926
+251,"{'lon': 19.491653882276136, 'lat': 48.70753128946242}",SVK,Member State,SVK,Slovakia,Europe,Eastern Europe,SK,Slovaquie,210113.1346035068
+252,"{'lon': -3.5244225221770105, 'lat': 17.350279190913366}",MLI,Member State,MLI,Mali,Africa,Western Africa,ML,Mali,678083.8421675463
+253,"{'lon': 44.94682354396964, 'lat': 40.28661987742086}",ARM,Member State,ARM,Armenia,Asia,Western Asia,AM,Arménie,92832.27346650173
+254,"{'lon': 20.068384605918776, 'lat': 41.142284823416894}",ALB,Member State,ALB,Albania,Europe,Southern Europe,AL,Albanie,67807.21434020343
+255,"{'lon': -5.344894624709657, 'lat': 36.138214997396915}",GIB,UK Non-Self-Governing Territory,GBR,Gibraltar,Europe,Southern Europe,GI,Gibraltar,0.0
