@@ -417,4 +417,4 @@ def select_bbox(selected_country,year_value):
 
     return fig
 
-app.run_server(debug=True)
+app.run_server(debug=False)
