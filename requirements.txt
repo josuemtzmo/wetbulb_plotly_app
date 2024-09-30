@@ -1,5 +1,6 @@
 dash==2.17.1
 geopandas
+dask
 numpy==1.26.4
 pandas==2.0.3
 xarray==2022.11.0
