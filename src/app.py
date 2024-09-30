@@ -26,7 +26,7 @@ class MapUtils():
         self.c_grid_coords_data = json.load(f)
 
         self.coarsen_population = xr.open_dataset(self.path + '/population_gridded.nc').population.load()
-        self.coarsen_wetbulb = xr.open_mfdataset(self.path + "/wetbulb_gridded_data_20*.nc", concat_dim='year',combine='nested').WetBTemp.load()
+        self.coarsen_wetbulb = xr.open_mfdataset(self.path + "/wetbulb_gridded_data_2*.nc", concat_dim='year',combine='nested').WetBTemp.load()
         
     @staticmethod
     def correct_trend(data, growthrate=0, dt=0):
@@ -157,7 +157,7 @@ dropdown = dcc.Dropdown(
 slider = dcc.Slider(
         2024,
         2100,
-        1,
+        4,
         id='year-slider',
         value=2024,
         marks=None,
